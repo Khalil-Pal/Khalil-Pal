@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm a 3rd-year Information Systems and Technologies student passionate about building software. I'm currently focused on mastering the backend with Java & Spring Boot, with my sights set on becoming a well-rounded Fullstack Developer.
 
-<!--
-**Khalil-Pal/Khalil-Pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning: Java, Spring Boot, and REST APIs.
 
-Here are some ideas to get you started:
+👨‍💻 Preparing for: Fullstack development (next up: React!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect: Khalilayed777@gmail.com
+
+My current toolbox:
+
+Languages: Java, SQL, JavaScript (beginner) , html , css ,javascript
+
+Frameworks: Spring Boot
+
+Tools: Git, Maven, Postman
