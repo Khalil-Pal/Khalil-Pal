@@ -8,7 +8,7 @@ I'm a 3rd-year Information Systems and Technologies student passionate about bui
 
 My current toolbox:
 
-Languages: Java, SQL, JavaScript (beginner) , html , css ,javascript
+Languages: Java, SQL, JavaScript (beginner) , html , css
 
 Frameworks: Spring Boot
 
