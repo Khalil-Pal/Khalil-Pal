@@ -1,4 +1,4 @@
-I'm a 3rd-year Information Systems and Technologies student passionate about building software. I'm currently focused on mastering the backend with Java & Spring Boot, with my sights set on becoming a well-rounded Fullstack Developer.
+I'm a 4th-year Information Systems and Technologies student passionate about building software. I'm currently focused on mastering the backend with Java & Spring Boot, with my sights set on becoming a well-rounded Fullstack Developer.
 
 🌱 Currently learning: Java, Spring Boot, and REST APIs.
 
