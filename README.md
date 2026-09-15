@@ -4,7 +4,7 @@ I'm a 4th-year Information Systems and Technologies student passionate about bui
 
 👨‍💻 Preparing for: Fullstack development (next up: React!).
 
-📫 Let's connect: Khalilayed777@gmail.com // linkedin.com/in/khalil-housheya-71aa973b9
+📫 Let's connect: Khalilayed777@gmail.com 
 
 My current toolbox:
 
